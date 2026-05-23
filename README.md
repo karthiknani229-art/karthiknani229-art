@@ -1,29 +1,28 @@
-<h1 align="center">Hi, I'm Penta Karthik 👋</h1>
+<h1 align="center">Penta Karthik</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Python · FastAPI · Flask · React · MERN · AI Systems
+  Full-Stack Developer · MERN · FastAPI · Python · AI Systems
 </p>
 
 <p align="center">
-  <a href="https://penta-karthik.netlify.app" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/penta-karthik/" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:karthiknani229@gmail.com">📧 Email</a>
+  <a href="https://penta-karthik.netlify.app" target="_blank">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/penta-karthik/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:karthiknani229@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Final-year B.Tech Computer Science student @ Joginpally B.R Engineering College, Hyderabad
-- 🔭 I build full-stack apps, AI systems, and automation tools
-- 🚀 6+ projects shipped — from journaling AI to trading bots to real-time vehicle detection
-- 🌱 Currently deepening skills in **FastAPI**, **MERN stack**, and **AI-integrated backends**
+Entry-level full-stack and backend developer with 10+ production-deployed projects spanning AI systems, REST APIs, and full-stack applications.
+
 - 📍 Hyderabad, India · Open to Remote / Relocation
-- 💬 Ask me about Python, REST APIs, Flask, React, or anything full-stack!
+- 🔧 Focused on backend development, API design, and AI-integrated systems
+- 🎓 B.Tech Computer Science · Joginpally B.R Engineering College
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -31,11 +30,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
 **Backend**
@@ -44,11 +44,11 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
@@ -57,51 +57,28 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [AI-Assisted Journaling System](https://github.com/karthiknani229-art)
-> Emotion detection across 5 moods (Happy, Sad, Stressed, Angry, Neutral) with real-time mood trend visualization.
-
-- Built with **Python · FastAPI · SQLite · Chart.js**
-- Structured API endpoints for journal entries, emotion classification & history
-- Responsive frontend with seamless backend integration
-- Delivered as part of RevoltronX – Team ArvyaX internship
-
----
-
-### 📈 [Binance Futures Trading Bot](https://github.com/karthiknani229-art)
-> CLI-based trading bot for executing MARKET and LIMIT orders on Binance USDT-M Futures Testnet.
-
-- Built with **Python · Binance API · argparse**
-- Layered modular architecture with API abstraction & structured logging
-- Robust error handling, timestamp sync & full input validation
-- Delivered as part of a Python Developer internship assignment
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Smart Leads Dashboard** | Full-stack lead management with JWT auth, RBAC, CSV import/export, and advanced filtering | React · TypeScript · Node.js · MongoDB | [GitHub](https://github.com/karthiknani229-art/smart-leads-dashboard) · [Live](https://smart-leads-dashboard-ecru.vercel.app/) |
+| **AI Notes Workspace** | Note management platform with AI summarization, action items, semantic search, and public sharing | React · Node.js · MongoDB · OpenRouter | [GitHub](https://github.com/karthiknani229-art/ai-notes-workspace) · [Live](https://ai-notes-workspace-psi.vercel.app/) |
+| **Prospect Intel** | Transforms company URLs into structured business intelligence using web scraping and LLM analysis | Python · Flask · BeautifulSoup · GPT-4o | [GitHub](https://github.com/karthiknani229-art/prospect-intel-project) · [Live](https://prospect-intel-project.vercel.app/) |
+| **RBAC Task API** | Secure task management API with JWT auth, role-based access control, and Swagger documentation | Python · FastAPI · SQLAlchemy · SQLite | [GitHub](https://github.com/karthiknani229-art/rbac-task-api-fastapi) · [Live](https://rbac-task-api.netlify.app/) |
+| **AI Journaling System** | Journaling platform with emotion detection across 5 mood categories and Chart.js trend visualization | React · Python · FastAPI · SQLite | [GitHub](https://github.com/karthiknani229-art/ai-journal-system) · [Live](https://ai-journal-system.netlify.app/) |
+| **Expert Session Booking** | Session booking platform with real-time slot updates via Socket.io and double booking prevention | React · Node.js · MongoDB · Socket.io | [GitHub](https://github.com/karthiknani229-art/expert-session-booking-system) |
+| **Lead Management CRM** | Full-stack CRM with dashboard analytics, CRUD, search, and PostgreSQL integration | React · Node.js · Express · PostgreSQL | [GitHub](https://github.com/karthiknani229-art/mini-crm) · [Live](https://mini-crm-pi-woad.vercel.app/) |
+| **Finance Dashboard API** | REST API with RBAC, financial analytics, soft deletes, pagination, and integration test suite | Node.js · Express · SQLite · Zod | [GitHub](https://github.com/karthiknani229-art/finance-dashboard-backend) |
+| **MediBook** | Appointment booking mobile app with 14-day date picker, slot deduplication, and role-based flows | React Native · Expo · AsyncStorage | [GitHub](https://github.com/karthiknani229-art/appointment-booking-mobile-app) |
+| **Slot Booking System** | University certificate request platform with admin approval and conflict-safe slot scheduling | Python · Flask · SQLite · Jinja2 | [GitHub](https://github.com/karthiknani229-art/slot-booking-flask) · [Live](https://slot-booking-flask.onrender.com/student) |
 
 ---
 
-### 🚦 [Smart Traffic Detection using YOLO](https://github.com/karthiknani229-art)
-> Real-time vehicle and helmet detection system achieving ~90% detection accuracy.
-
-- Built with **Python · YOLOv8 · OpenCV**
-- Optimized frame-level inference pipeline for reduced latency
-- Fine-tuned detection thresholds for varying real-world conditions
-
----
-
-### 🧾 [Invoice Management System](https://github.com/karthiknani229-art)
-> Full-stack invoice platform with CRUD operations, RESTful APIs, and persistent storage.
-
-- Built with **MongoDB · Express.js · React.js · Node.js** (MERN)
-- Responsive React frontend with complete backend integration
-- Clean API routing with data validation
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthiknani229-art&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -117,22 +94,6 @@
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/penta-karthik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://penta-karthik.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" />
-  </a>
-  <a href="mailto:karthiknani229@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
-  <i>Open to full-stack / backend developer roles · Hyderabad · Remote · Relocation</i>
+  Open to full-stack and backend developer roles · Hyderabad · Remote · Relocation
 </p>
